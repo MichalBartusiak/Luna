@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="39" viewBox="0 0 126 39">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop" width="126" height="39" transform="translate(0 35.028)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(0 -35.028)" clip-path="url(#clip-path)">
+    <text id="Luna" transform="translate(52.85 58.837)" fill="#fff" font-size="32" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.06em"><tspan x="0" y="0">Luna</tspan></text>
+    <path id="Path_38" data-name="Path 38" d="M28.249,28.445A17.625,17.625,0,0,1,12.275,53.3,17.345,17.345,0,0,1,3.6,50.979,17.544,17.544,0,1,0,28.249,28.445Z" fill="#4ca9ff"/>
+  </g>
+</svg>
